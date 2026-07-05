@@ -1,0 +1,1 @@
+A text editor that automates a single file letter into a full worded sentence or story to complete a readable text 
